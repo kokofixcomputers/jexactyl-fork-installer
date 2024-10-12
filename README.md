@@ -111,5 +111,7 @@ Copyright (C) 2018 - 2024, Vilhelm Prytz, <vilhelm@prytznet.se>, and contributor
 - Created by [Vilhelm Prytz](https://github.com/vilhelmprytz)
 - Maintained by [Linux123123](https://github.com/Linux123123)
 
+![Alt](https://repobeats.axiom.co/api/embed/6d7402a3a299cdbdfa21bc4341babee50f679393.svg "Repobeats analytics image")
+
 Thanks to the Discord moderators [sam1370](https://github.com/sam1370), [Linux123123](https://github.com/Linux123123) and [sinjs](https://github.com/sinjs) for helping on the Discord server!
 contributors
