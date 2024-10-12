@@ -115,3 +115,5 @@ Copyright (C) 2018 - 2024, Vilhelm Prytz, <vilhelm@prytznet.se>, and contributor
 
 Thanks to the Discord moderators [sam1370](https://github.com/sam1370), [Linux123123](https://github.com/Linux123123) and [sinjs](https://github.com/sinjs) for helping on the Discord server!
 contributors
+
+![Alt](https://repobeats.axiom.co/api/embed/ebb7f3d20af4d7a24fe562f027948429e979e1bc.svg "Repobeats analytics image")
