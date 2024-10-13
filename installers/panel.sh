@@ -190,6 +190,10 @@ insert_cronjob() {
     cat
     output "* * * * php /var/www/pterodactyl/artisan schedule:run >> /dev/null 2>&1"
   } | crontab -
+  crontab -l | {
+    cat
+    output "0 0 * * * php /var/www/jexactyl/artisan p:schedule:renewal >> /dev/null 2>&1"
+  } | crontab -
 
   success "Cronjob installed!"
 }
