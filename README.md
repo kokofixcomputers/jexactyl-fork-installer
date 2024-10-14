@@ -9,7 +9,7 @@
 
 Unofficial scripts for installing Pterodactyl Panel & Wings. Works with the latest version of Pterodactyl!
 
-Read more about [Pterodactyl](https://pterodactyl.io/) here. This script is not associated with the official Pterodactyl Project.
+Read more about [Jexactyl-fork](https://github.com/kokofixcomputers/Jexactyl) here.
 
 ## Features
 
