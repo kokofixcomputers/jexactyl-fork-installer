@@ -122,16 +122,16 @@ welcome() {
   get_latest_versions
 
   print_brake 70
-  output "Pterodactyl panel installation script @ $SCRIPT_RELEASE"
+  output "Jexactyl-fork installation script @ $SCRIPT_RELEASE"
   output ""
   output "Copyright (C) 2018 - 2024, Vilhelm Prytz, <vilhelm@prytznet.se>"
   output "https://github.com/pterodactyl-installer/pterodactyl-installer"
   output ""
-  output "This script is not associated with the official Pterodactyl Project."
+  output "This script is not associated with the official pterodactyl-installer Project."
   output ""
   output "Running $OS version $OS_VER."
   if [ "$1" == "panel" ]; then
-    output "Latest pterodactyl/panel is $PTERODACTYL_PANEL_VERSION"
+    output "Latest kokofixcomputers/Jexactyl is $PTERODACTYL_PANEL_VERSION"
   elif [ "$1" == "wings" ]; then
     output "Latest pterodactyl/wings is $PTERODACTYL_WINGS_VERSION"
   fi
