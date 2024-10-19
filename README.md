@@ -9,15 +9,26 @@
 
 Unofficial scripts for installing Pterodactyl Panel & Wings. Works with the latest version of Pterodactyl!
 
-Read more about [Pterodactyl](https://pterodactyl.io/) here. This script is not associated with the official Pterodactyl Project.
+Read more about [Jexactyl-fork](https://github.com/kokofixcomputers/Jexactyl) here. This script is not associated with the official Pterodactyl Project.
 
 ## Features
 
-- Automatic installation of the Pterodactyl Panel (dependencies, database, cronjob, nginx).
+- Automatic installation of the Jexactyl-fork Panel (dependencies, database, cronjob, nginx).
 - Automatic installation of the Pterodactyl Wings (Docker, systemd).
 - Panel: (optional) automatic configuration of Let's Encrypt.
 - Panel: (optional) automatic configuration of firewall.
 - Uninstallation support for both panel and wings.
+
+## Installation:
+Run:
+```bash
+bash <(curl -s https://jexactyl-fork-installer.kokodev.cc)
+```
+In some cases, you need to run: 
+```
+sudo su
+```
+first.
 
 ## Help and support
 
